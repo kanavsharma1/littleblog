@@ -1,0 +1,16 @@
+h1{
+    color: blue;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+header{
+    background-color: gray;
+    opacity: 2px;
+    size: 400px;
+
+}

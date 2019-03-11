@@ -1,0 +1,21 @@
+.login_form{
+    
+    align: center;
+    align-items: center;
+    background-color: cadetblue;
+    font-family: sans-serif;
+    border: 5px solid black;
+    padding: 20px;
+    size: 250px;
+    width: 300px;
+}
+
+.button{
+    font-size: 15px;
+    padding: 5px;
+    width: 100px;
+    font-family: sans-serif;
+    background-color: darkgrey;
+    color:darkred;
+    border-radius: 10px;
+}
